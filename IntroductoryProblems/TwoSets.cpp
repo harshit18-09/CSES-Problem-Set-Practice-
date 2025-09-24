@@ -7,6 +7,7 @@ int main(){
     int n;
     cin>>n;
     
+    //check
     int sum = n*(n+1)/2;
     if(sum % 2 == 0){
         int h = sum/2;
